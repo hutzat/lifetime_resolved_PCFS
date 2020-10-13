@@ -1,0 +1,13 @@
+PCFS Scan Logfile
+Date=10/31/2017
+Time=4:13 PM
+Comments=
+------------Stage Movement--------------
+White_Fringe_Offset=0.000000
+Speed=0.000000
+Increment=0.000000
+N_steps=0.000500
+Dither_Freq=40.000000
+Dither_Amplitude=0.000000
+------------Picoquant Settings-------------
+Int_Time=360000.000000
